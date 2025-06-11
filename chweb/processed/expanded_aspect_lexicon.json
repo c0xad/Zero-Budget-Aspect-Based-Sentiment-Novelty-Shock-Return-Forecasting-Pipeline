@@ -1,0 +1,68 @@
+{
+  "liquidity": [
+    "financing",
+    "loan",
+    "borrowing",
+    "liquid*",
+    "cash flow",
+    "working capital",
+    "credit facility",
+    "capital structure",
+    "debt"
+  ],
+  "guidance": [
+    "guidance",
+    "estimate",
+    "target",
+    "forecast",
+    "anticipate",
+    "projection",
+    "outlook",
+    "goal",
+    "expect*"
+  ],
+  "management_change": [
+    "appoint*",
+    "retire*",
+    "interim",
+    "president",
+    "board",
+    "successor",
+    "director",
+    "resignation",
+    "chief executive"
+  ],
+  "risk": [
+    "regulatory",
+    "litigation",
+    "uncertainty",
+    "investigation",
+    "material weakness",
+    "risk factor*",
+    "compliance"
+  ],
+  "operations": [
+    "restructur*",
+    "facility",
+    "consolidat*",
+    "divestiture",
+    "expansion",
+    "acquisition",
+    "manufacturing",
+    "merger",
+    "capacity"
+  ],
+  "financial_performance": [
+    "loss",
+    "charge",
+    "earnings",
+    "impairment",
+    "write-down",
+    "expense",
+    "margin",
+    "gain",
+    "profit",
+    "revenue",
+    "cost"
+  ]
+}
